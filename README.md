@@ -1,5 +1,7 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:
+## Date: 12/05/2025
+## Name: S Junaid Sardar
+## Register No. 212224100028
 
 ## AIM:
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
@@ -32,6 +34,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 ss.html
 <html>
 <head>
@@ -134,12 +137,12 @@ urlpatterns = [
     path('areaofrightcylinder/',views.rightcylinder,name="areaofrightcylinder"),
     path('',views.rightcylinder,name="areaofrightcylinderroot")
 ]
-
+```
 ## SERVER SIDE PROCESSING:
 
 ![alt text](image-1.png)
 ## HOMEPAGE:
-![alt text](image.png)
 
+![alt text](image.png)
 ## RESULT:
 The program for performing server side processing is completed successfully.
