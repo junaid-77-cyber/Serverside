@@ -32,6 +32,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 ss.html
 <html>
 <head>
@@ -134,7 +135,7 @@ urlpatterns = [
     path('areaofrightcylinder/',views.rightcylinder,name="areaofrightcylinder"),
     path('',views.rightcylinder,name="areaofrightcylinderroot")
 ]
-
+```
 
 ## SERVER SIDE PROCESSING:
 
